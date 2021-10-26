@@ -1,7 +1,12 @@
 .Hdiv{
   text-align: center;
   color: white;
+  justify-content: center;
+  align-items: center;
 }
 .div{
   text-align: center;
+}
+.services{
+  padding-top: 150px;
 }
